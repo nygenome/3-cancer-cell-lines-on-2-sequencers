@@ -1,5 +1,5 @@
 
-# NYGC Cancer Pipeline
+# NYGC Cancer Pipeline v6
 
 NYGC’s cancer pipeline identifies somatic and germline variants from whole genome sequencing (WGS), whole exome sequencing (WES) or targeted panel tumor and normal data. The pipeline can be run on sequencing data from human, mouse and patient-derived xenograft (PDX) models.
 
@@ -23,7 +23,8 @@ Variant calls and additional information available on our companion website.
 Nicolas Robine  
 Minita Shah  
 Tim Chu  
-Jennifer Shelton  
+Jennifer Shelton
+Will Hooper
 
 # 3 Cancer Cell lines on 2 sequencers
 
