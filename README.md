@@ -31,7 +31,7 @@ Jennifer Shelton
 This website is intended to be a companion to the paper published in Scientific Reports, to host some important files (also accessible elsewhere) and present additional figures and reports.
 
 Publication
-The paper is now available in [Scientific Reports](https://web.archive.org/web/20251213122231/https://www.nature.com/articles/s41598-019-55636-3)
+The paper is now available in [Scientific Reports](https://www.nature.com/articles/s41598-019-55636-3)
 
 Data availability
 The raw data is available on dbGAP.
@@ -39,42 +39,47 @@ The raw data is available on dbGAP.
 The somatic variant files, obtained from the high-coverage data are accessible below (or directly in Variants.HighCoverage.tar.gz 140MB):
 
 ## Data availability
-The raw data is available on [dbGAP](https://web.archive.org/web/20251213122231/https://www.ncbi.nlm.nih.gov/gap/?term=phs001839).
+The raw data is available on [dbGAP](https://dbgap.ncbi.nlm.nih.gov/beta/study/phs001839.v1.p1/#study).
 
-The somatic variant files, obtained from the high-coverage data are accessible below (or directly in Variants.HighCoverage.tar.gz 140MB):
+The somatic variant files, obtained from the high-coverage data are accessible directly in [Variants.HighCoverage.tar.gz](data/Variants.HighCoverage.tar.gz) (140MB):
 
  
 
-Cell line	SNV/indel	CNV	SV	SV high confidence
-COLO-829 (HiSeqX)	VCF	BED	bedpe	bedpe
-COLO-829 (NovaSeq)	VCF	BED	bedpe	bedpe
-HCC-1143 (HiSeqX)	VCF	BED	bedpe	bedpe
-HCC-1143 (NovaSeq)	VCF	BED	bedpe	bedpe
-HCC-1187 (HiSeqX)	VCF	BED	bedpe	bedpe
-HCC-1187 (NovaSeq)	VCF	BED	bedpe	bedpe
+| Cell line	| SNV/indel |	CNV	| SV	| SV high confidence | 
+| --------- | -------- | --- | ----- | ------------------ |
+| COLO-829 (HiSeqX) | VCF	| BED	| bedpe	| bedpe |
+| COLO-829 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe | 
+| HCC-1143 (HiSeqX)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1143 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1187 (HiSeqX)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1187 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe |
  
 
 The somatic variant files obtained from downsampled 40X/80X coverage are accessible below (or directly in Variants.Downsampled.tar.gz 89MB):
 
  
 
-Cell line	SNV/indel	CNV	SV	SV high confidence
-COLO-829 (HiSeqX)	VCF	BED	bedpe	bedpe
-COLO-829 (NovaSeq)	VCF	BED	bedpe	bedpe
-HCC-1143 (HiSeqX)	VCF	BED	bedpe	bedpe
-HCC-1143 (NovaSeq)	VCF	BED	bedpe	bedpe
-HCC-1187 (HiSeqX)	VCF	BED	bedpe	bedpe
-HCC-1187 (NovaSeq)	VCF	BED	bedpe	bedpe
-Sample reports
+| Cell line	| SNV/indel	| CNV	| SV	| SV high confidence |
+| --------- | -------- | --- | ----- | ------------------ |
+| COLO-829 (HiSeqX)	| VCF	| BED	| bedpe	| bedpe |
+| COLO-829 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1143 (HiSeqX)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1143 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1187 (HiSeqX)	| VCF	| BED	| bedpe	| bedpe |
+| HCC-1187 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe |
+
+## Sample reports
 Reports summarizing the results of our pipeline for each tumor-normal pair:
 
-Cell line	Report
-COLO-829 (HiSeqX)	HTML
-COLO-829 (NovaSeq)	HTML
-HCC-1143 (HiSeqX)	HTML
-HCC-1143 (NovaSeq)	HTML
-HCC-1187 (HiSeqX)	HTML
-HCC-1187 (NovaSeq)	HTML
+| Cell line	| Report |
+| --------- | -------- |
+| COLO-829 (HiSeqX)	| HTML |
+| COLO-829 (NovaSeq)	| HTML |
+| HCC-1143 (HiSeqX)	| HTML |
+| HCC-1143 (NovaSeq)	| HTML |
+| HCC-1187 (HiSeqX)	| HTML |
+| HCC-1187 (NovaSeq)	| HTML |
+
 Related work
 Related to the deep sequencing of cancer cell lines in HiSeqX and NovaSeq, we tested the new kit for NovaSeq, producing 2x250bp reads. We sequenced HCC-1143 (and matched normal HCC-1143-BL) and the well-characterized CEU HapMap trio (NA12878, NA12891, and NA12892).
 
