@@ -55,7 +55,7 @@ The somatic variant files, obtained from the high-coverage data are accessible d
 | HCC-1187 (NovaSeq)	| VCF	| BED	| bedpe	| bedpe |
  
 
-The somatic variant files obtained from downsampled 40X/80X coverage are accessible below (or directly in Variants.Downsampled.tar.gz 89MB):
+The somatic variant files obtained from downsampled 40X/80X coverage are accessible in [Variants.Downsampled.tar.gz](data/Variants.Downsampled.tar.gz) (89MB):
 
  
 
