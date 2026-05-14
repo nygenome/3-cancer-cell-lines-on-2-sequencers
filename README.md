@@ -5,6 +5,11 @@ NYGC’s cancer pipeline identifies somatic and germline variants from whole gen
 
 Additionally, it can detect microsatellite instability (MSI) and identify mutational signatures within the tumor sample, and predict human leukocyte antigen (HLA) genotypes from the normal sample data.
 
+Individual v6 pipeline commands are available on [somaticpipelinespecsv6](https://bitbucket.nygenome.org/projects/COMPBIO/repos/somaticpipelinespecsv6/browse)
+
+Note: SomaticPipeline v7 is available ([link](https://bitbucket.nygenome.org/projects/WDL/repos/somatic_dna_wdl/browse)). Documentation for v7 can be found in [README_pipeline.md](https://bitbucket.nygenome.org/projects/WDL/repos/somatic_dna_wdl/browse/README_pipeline.md).
+
+
 ![Pipline diagram](SomaticPipeline_v6_WGS_diagram.png)
 
 ## Pipeline Documentation:
