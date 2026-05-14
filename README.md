@@ -74,12 +74,12 @@ Reports summarizing the results of our pipeline for each tumor-normal pair:
 
 | Cell line	| Report |
 | --------- | -------- |
-| COLO-829 (HiSeqX)	| HTML |
-| COLO-829 (NovaSeq)	| HTML |
-| HCC-1143 (HiSeqX)	| HTML |
-| HCC-1143 (NovaSeq)	| HTML |
-| HCC-1187 (HiSeqX)	| HTML |
-| HCC-1187 (NovaSeq)	| HTML |
+| [COLO-829 (HiSeqX)](data/COLO-829--COLO-829BL.v6.final.report.html)	| HTML |
+| [COLO-829 (NovaSeq)](data/COLO-829-NovaSeq--COLO-829BL-NovaSeq.v6.final.report.html)	| HTML |
+| [HCC-1143 (HiSeqX)](data/HCC-1143--HCC-1143BL.v6.final.report.html)	| HTML |
+| [HCC-1143 (NovaSeq)](data/HCC-1143-NovaSeq--HCC-1143BL-NovaSeq.v6.final.report.html)	| HTML |
+| [HCC-1187 (HiSeqX)](data/HCC1187--HCC-1187BL.v6.final.report.html)	| HTML |
+| [HCC-1187 (NovaSeq)](data/HCC1187-NovaSeq--HCC-1187BL-NovaSeq.v6.final.report.html)	| HTML |
 
 Related work
 Related to the deep sequencing of cancer cell lines in HiSeqX and NovaSeq, we tested the new kit for NovaSeq, producing 2x250bp reads. We sequenced HCC-1143 (and matched normal HCC-1143-BL) and the well-characterized CEU HapMap trio (NA12878, NA12891, and NA12892).
